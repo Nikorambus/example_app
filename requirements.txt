@@ -33,7 +33,7 @@ platformdirs==2.5.2
 psycopg2-binary==2.9.6
 pycparser==2.20
 Pygments==2.13.0
-pygost==5.7
+pygost==5.12
 pyparsing==3.0.9
 pyTelegramBotAPI==3.7.1
 python-telegram-bot==12.7
